@@ -4,6 +4,22 @@ Recommendations from the Computational Social Science team at UK Data Service
 ## I want to ask for recommendations
 Go to the [Issues page](https://github.com/UKDataServiceOpen/CSSRecommends/issues) and create a new issue for your recommendations. Make sure you read the below section or check your prompt isn't currently in issues. Most of these resources will be collated in response to questions from the UK Data Service Data Drop-ins.
 
+## Getting Started with:
+
+### Statistics  
+Statistics focuses on gathering, reviewing, analyzing and drawing conclusions from data. A lot of Machine Learning is reliant on an understanding of these statistical concepts.
+* [Crash course Stats](https://thecrashcourse.com/courses/statistics)
+* [Stats Fundamentals with StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+
+### Linear Algebra
+Linear algebra concerns itself with matrices, linear equations and more. While it may seem abstract many Machine Learning techniques are based in or around linear algebra. 
+* [Fundamentals of Linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab )
+
+###Machine Learning and AI 
+Machine Learning refers to algorithms which produce a model which can make predictions on a value, using input values. AI is often used a synonym, though usually refers self-learning systems which apply Machine Learning. Most use-casesrequire ML, not AI.
+* [Crash course AI](https://thecrashcourse.com/courses/ai )
+* [ML with StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+
 ## Recommendations
 ### Data Environments
 Learning Python or R is an undertaking, you need more than just these languages to work with data. There are a wealth of community packages that make sentiment analysis, entity-matching and more accessible. Package management isn't easy.
@@ -11,7 +27,6 @@ Learning Python or R is an undertaking, you need more than just these languages 
 * [Day 1 setup](https://towardsdatascience.com/an-environment-for-data-d03c6767efe2) - [Joe](https://twitter.com/JosephAllen1234) summarises his Day 1 setup at the [UKDS](https://www.ukdataservice.ac.uk/), covering Python and R with Anaconda.
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) -  is great if your work is notebook based (a collection of data cells and markdown cells explaining your work). You don't need to maintain any environments here, but you will have to remake them for each project.
 * [PyCharm](https://www.jetbrains.com/pycharm/) - PyCharm is a developer environment specifically for Python users.
-
 
 ### Network Analysis
 Network Analysis involves reducing real-world situations to graph views. Generally, the advice was to learn R or Python for more mature network analysis tooling.
