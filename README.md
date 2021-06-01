@@ -5,12 +5,12 @@ Recommendations from the Computational Social Science team at UK Data Service
 Go to the [Issues page](https://github.com/UKDataServiceOpen/CSSRecommends/issues) and create a new issue for your recommendations. Make sure you read the below section or check your prompt isn't currently in issues. Most of these resources will be collated in response to questions from the UK Data Service Data Drop-ins.
 
 ## Getting Started with:
-* [Statistics](###Statistics)
-* [Linear Algebra](###Linear Algebra)
-* [Machine Learning and AI ](###Machine Learning and AI )
-* [Data Environments](###Data Environments)
-* [Network Analysis](###Network Analysis)
-* [Geographic plots in R](###Geographic plots in R)
+* [Statistics](#Statistics)
+* [Linear Algebra](#Linear Algebra)
+* [Machine Learning and AI](#Machine Learning and AI)
+* [Data Environments](#Data Environments)
+* [Network Analysis](#Network Analysis)
+* [Geographic plots in R](#Geographic plots in R)
 
 ### Statistics  
 Statistics focuses on gathering, reviewing, analyzing and drawing conclusions from data. A lot of Machine Learning is reliant on an understanding of these statistical concepts.
