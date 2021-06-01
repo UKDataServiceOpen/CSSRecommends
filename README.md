@@ -5,6 +5,12 @@ Recommendations from the Computational Social Science team at UK Data Service
 Go to the [Issues page](https://github.com/UKDataServiceOpen/CSSRecommends/issues) and create a new issue for your recommendations. Make sure you read the below section or check your prompt isn't currently in issues. Most of these resources will be collated in response to questions from the UK Data Service Data Drop-ins.
 
 ## Getting Started with:
+* [Statistics](###Statistics)
+* [Linear Algebra](###Linear Algebra)
+* [Machine Learning and AI ](###Machine Learning and AI )
+* [Data Environments](###Data Environments)
+* [Network Analysis](###Network Analysis)
+* [Geographic plots in R](###Geographic plots in R)
 
 ### Statistics  
 Statistics focuses on gathering, reviewing, analyzing and drawing conclusions from data. A lot of Machine Learning is reliant on an understanding of these statistical concepts.
@@ -15,7 +21,7 @@ Statistics focuses on gathering, reviewing, analyzing and drawing conclusions fr
 Linear algebra concerns itself with matrices, linear equations and more. While it may seem abstract many Machine Learning techniques are based in or around linear algebra. 
 * [Fundamentals of Linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab )
 
-###Machine Learning and AI 
+### Machine Learning and AI 
 Machine Learning refers to algorithms which produce a model which can make predictions on a value, using input values. AI is often used a synonym, though usually refers self-learning systems which apply Machine Learning. Most use-casesrequire ML, not AI.
 * [Crash course AI](https://thecrashcourse.com/courses/ai )
 * [ML with StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
