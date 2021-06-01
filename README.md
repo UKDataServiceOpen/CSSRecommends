@@ -11,6 +11,7 @@ Go to the [Issues page](https://github.com/UKDataServiceOpen/CSSRecommends/issue
 * [Data Environments](#data-environments)
 * [Network Analysis](#network-analysis)
 * [Geographic plots in R](#geographic-plots-in-r)
+* [Computer Vision](#computer-vision)
 
 ### Statistics  
 Statistics focuses on gathering, reviewing, analyzing and drawing conclusions from data. A lot of Machine Learning is reliant on an understanding of these statistical concepts.
@@ -48,3 +49,18 @@ Nice visualizations of a local area in response to a new dataset is a great way 
 * [ggplot2](https://www.r-graph-gallery.com/327-chloropleth-map-from-geojson-with-ggplot2.html) - A mature R library covering most data viz needs. The link is a quick intro to chloropleth maps.
 * [Visualize London boundaries with ggplot2](https://datatricks.co.uk/london-map-in-3-easy-steps) - A tutorial on visualizing London boundaries.
 * [Boundary data tool](https://borders.ukdataservice.ac.uk/bds.html) - The UKDS maintains a Boundary Data Selector, if this doesn't bring up what you are looking for usually googling something like "London GIS boundaries" will do.
+
+### Computer Vision
+To begin talking about Computer Vision, I think it makes sense to look at image processing while we are here. Image processing is about taking an individual image, or colelction of images and trying to do something with those images. It could be detecting edges, blobs, sharpening the image, changing it's color. Most of this resolves to clever combinations of matrix multiplications. The [Processing IDE](https://processing.org/reference/environment/) is a wonderful tool to build digital art from such image information. It's the harder parts of image processing such as segmenting an image, or classifier what's in that image where Computer Vision steps in.
+
+Computer Vision, takes these methods and adds AI into the mix. Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. This might be classifying products in a supermarket, to making sure a self-driving car can tell the difference between a person and a tree. Due to how practical Computer Vision is, Google already has a [Vision AI](https://cloud.google.com/vision) to make use of. A fantastic place to learn about computer vision is the [Kaggle MNIST Challenge](https://www.kaggle.com/c/digit-recognizer) where you can learn to train a model to recognize handwritten digits. computer Vision benefits from having such tanglible and visual examples in comparison to other fields. We mostly, know how eyes work!
+
+Links:
+* [Processing IDE](https://processing.org/reference/environment/)
+* [Vision AI](https://cloud.google.com/vision)
+* [Kaggle MNIST Challenge](https://www.kaggle.com/c/digit-recognizer)
+* [Neural Style Transfer](https://medium.com/x8-the-ai-community/neural-style-transfer-using-deep-learning-to-generate-art-651d9ccf740c)
+
+
+
+
